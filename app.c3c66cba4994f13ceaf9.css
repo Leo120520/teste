@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conexão Campo e Cidade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f8e9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        section {
+            background-color: #ffffff;
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #388e3c;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #388e3c;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Conexão Campo e Cidade</h1>
+        <p>A importância da interação entre o meio rural e urbano</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>O que é a Conexão Campo-Cidade?</h2>
+            <p>A conexão entre o campo e a cidade representa a relação de interdependência entre o meio rural e o urbano. Ambos são essenciais para o desenvolvimento econômico, social e cultural. O campo fornece alimentos, matérias-primas e recursos naturais, enquanto a cidade oferece infraestrutura, comércio e serviços para que o campo seja produtivo e sustentável.</p>
+            <img src="file:///tmp/guest-rtrbei/Downloads/trator.webp" alt="Campo e cidade conectados">
+        </section>
+
+        <section>
+            <h2>O Papel do Campo</h2>
+            <p>O campo é a base da produção de alimentos e recursos naturais. A agricultura e a pecuária são fundamentais para a economia de muitos países. Além disso, o campo oferece uma grande biodiversidade e é responsável pela preservação de várias espécies e ecossistemas.</p>
+            <img src="file:///tmp/guest-rtrbei/Downloads/cow.webp" alt="Campo e agricultura">
+        </section>
+
+        <section>
+            <h2>O Papel da Cidade</h2>
+            <p>As cidades são os centros de consumo, onde os produtos do campo são transformados, distribuídos e comercializados. Elas oferecem educação, saúde, tecnologia e infraestrutura para melhorar a qualidade de vida. A urbanização é uma forma de agregar valor ao trabalho do campo, tornando-o mais eficiente e rentável.</p>
+            <img src="file:///tmp/guest-rtrbei/Downloads/NY.webp" alt="Cidade e urbanização">
+        </section>
+
+        <section>
+            <h2>Benefícios da Conexão</h2>
+            <ul>
+                <li>Troca de conhecimento e tecnologia para melhorar a produtividade no campo.</li>
+                <li>Melhor distribuição de alimentos para as cidades e menor desperdício.</li>
+                <li>Apoio à sustentabilidade e preservação de recursos naturais.</li>
+                <li>Geração de empregos tanto no campo quanto na cidade.</li>
+                <li>Fortalecimento da economia local e do desenvolvimento regional.</li>
+            </ul>
+            <img src="file:///tmp/guest-rtrbei/Downloads/road.webp" alt="Agricultura e benefícios econômicos">
+        </section>
+
+        <section>
+            <h2>Como Melhorar Essa Conexão?</h2>
+            <ul>
+                <li>Investir em infraestrutura para o transporte de produtos do campo para a cidade.</li>
+                <li>Estimular a educação no campo, capacitando os produtores rurais com novas tecnologias.</li>
+                <li>Promover a sustentabilidade tanto no campo quanto nas cidades.</li>
+                <li>Incentivar a agricultura familiar e o consumo local nas cidades.</li>
+                <li>Desenvolver políticas públicas que integrem as duas áreas de forma **equilibrada**.</li>
+            </ul>
+            <img src="file:///tmp/guest-rtrbei/Downloads/campo.webp" alt="Integração entre cidade e campo">
+        </section>
+    </main>
+
+    <footer>
+        <p>Feito por: Danilo I. Siqueira 3D - Projeto Escolar Agrinho</p>
+    </footer>
+
+</body>
+</html>
